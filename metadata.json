@@ -1,0 +1,6 @@
+{
+  "name": "True Watches — Time Builds Legends",
+  "description": "Discover luxury watches, horological masterpieces, chronographs, and everyday prestige timepieces with Pakistan-wide delivery, WhatsApp ordering, and interactive luminescence simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
